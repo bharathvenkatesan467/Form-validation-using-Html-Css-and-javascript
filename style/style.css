@@ -1,0 +1,61 @@
+.col{
+    height: 740px;
+}
+input{
+    width : 400px;
+    display: block;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+}
+form{
+    background-color: #EEEEEE;
+    border-radius: 10px;
+    padding: 30px 40px 30px 50px;
+    max-width: 500px;
+    margin: 30px auto;
+}
+#password,#email{
+    margin-top: 30px;
+}
+.b1{
+    text-align: center;
+    margin: 25px 170px;
+    border: none;
+    border-radius: 5px;
+    background-color: skyblue;
+    width:80px;
+
+}
+body,.row{
+    background-color: skyblue;
+}
+.s{
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #000000;
+}
+.a1{
+    height: 100px;
+    width: 400px;
+}
+textarea{
+    border: none;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+}
+.b1:hover{
+    background-color: black;
+    color: white;
+}
+label{
+    margin-bottom: 6px;
+}
+input:focus{
+    background-color: rgb(168, 216, 235);
+}
+textarea:focus{
+    background-color: rgb(168, 216, 235);   
+}
